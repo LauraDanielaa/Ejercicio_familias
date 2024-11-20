@@ -11,17 +11,16 @@ Modelos de programación 2
 ### Descripción del taller
 
 base de conocimientos para el ejercicio de familias con los predicados de:
-
--padre
--hijo
--abuelo
--nieto
--tío
--sobrino
--primo
--familiar (une todas las anteriores)
--familiares (genera una lista de familiares)
--casado (los que tienen hijos en común)
--suegro (padre de casado)
+- padre
+- hijo
+- abuelo
+- nieto
+- tío
+- sobrino
+- primo
+- familiar (une todas las anteriores)
+- familiares (genera una lista de familiares)
+- casado (los que tienen hijos en común)
+- suegro (padre de casado)
 
 
